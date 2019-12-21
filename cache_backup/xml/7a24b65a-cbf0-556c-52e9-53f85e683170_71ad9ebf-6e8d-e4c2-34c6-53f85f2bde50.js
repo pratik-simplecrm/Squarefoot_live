@@ -1,0 +1,1296 @@
+{
+	"properties": [
+
+	{
+
+		"title":"Pipeline total is Rs453,393K"
+,
+		"subtitle":"Opportunity size in Rs1K"
+,
+		"type":"horizontal group by chart"
+,
+		"legend":"on"
+,
+		"labels":"value"
+,
+		"thousands":""
+
+	}
+
+	],
+
+	"label": [
+
+		"Ajimon"
+,
+		"Ajit"
+,
+		"Alok"
+,
+		"Anil"
+,
+		"Atal"
+,
+		"Bipin"
+,
+		"Diptendu"
+,
+		"Hemanth"
+,
+		"Joydeep"
+,
+		"Krishna"
+,
+		"Mahendran"
+,
+		"Mamatha"
+,
+		"Mandeep"
+,
+		"Nisha"
+,
+		"Prakashs"
+,
+		"Raju"
+,
+		"Ramakrishna"
+,
+		"Ravikanth"
+,
+		"Renoob"
+,
+		"Sandeep"
+,
+		"Sankar"
+,
+		"Satish"
+,
+		"Shailen"
+,
+		"Shireesh"
+,
+		"Sravanthi"
+,
+		"Srikanth"
+,
+		"Subramanyam"
+,
+		"Sunil"
+,
+		"Uday"
+,
+		"Uma"
+,
+		"Umesh"
+,
+		"Venkat"
+,
+		"Vikrams"
+,
+		"Vinod"
+,
+		"Ankita"
+,
+		"Atul"
+,
+		"Indra"
+,
+		"Rizwan"
+,
+		"Shashi"
+,
+		"Soumyadeep"
+,
+		"Sudhakar"
+,
+		"Zulficar"
+,
+		"Roopa"
+
+	],
+
+	"color": [
+
+		"#8c2b2b"
+,
+		"#468c2b"
+,
+		"#2b5d8c"
+,
+		"#cd5200"
+,
+		"#e6bf00"
+,
+		"#7f3acd"
+,
+		"#00a9b8"
+,
+		"#572323"
+,
+		"#004d00"
+,
+		"#000087"
+,
+		"#e48d30"
+,
+		"#9fba09"
+,
+		"#560066"
+,
+		"#009f92"
+,
+		"#b36262"
+,
+		"#38795c"
+,
+		"#3D3D99"
+,
+		"#99623d"
+,
+		"#998a3d"
+,
+		"#994e78"
+,
+		"#3d6899"
+,
+		"#CC0000"
+,
+		"#00CC00"
+,
+		"#0000CC"
+,
+		"#cc5200"
+,
+		"#ccaa00"
+,
+		"#6600cc"
+,
+		"#005fcc"
+
+	],
+
+	"values": [
+
+	{
+
+		"label": "Draft",
+
+		"gvalue": "411242.17",
+
+		"gvaluelabel": "Rs411,242.17K",
+
+		"values": [
+			1555
+,
+			300
+,
+			13000
+,
+			2640
+,
+			26740
+,
+			145
+,
+			1560
+,
+			198
+,
+			5650
+,
+			2600
+,
+			104
+,
+			810
+,
+			3583.94
+,
+			420
+,
+			880
+,
+			1895
+,
+			16925
+,
+			51
+,
+			2000
+,
+			100
+,
+			2142
+,
+			72
+,
+			800
+,
+			50
+,
+			16.53
+,
+			37068.7
+,
+			400
+,
+			30700
+,
+			3710
+,
+			136
+,
+			400
+,
+			320
+,
+			250000
+,
+			4270
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+
+
+		],
+
+		"valuelabels": [
+			"Rs1,555.00K"
+,
+			"Rs300.00K"
+,
+			"Rs13,000.00K"
+,
+			"Rs2,640.00K"
+,
+			"Rs26,740.00K"
+,
+			"Rs145.00K"
+,
+			"Rs1,560.00K"
+,
+			"Rs198.00K"
+,
+			"Rs5,650.00K"
+,
+			"Rs2,600.00K"
+,
+			"Rs104.00K"
+,
+			"Rs810.00K"
+,
+			"Rs3,583.94K"
+,
+			"Rs420.00K"
+,
+			"Rs880.00K"
+,
+			"Rs1,895.00K"
+,
+			"Rs16,925.00K"
+,
+			"Rs51.00K"
+,
+			"Rs2,000.00K"
+,
+			"Rs100.00K"
+,
+			"Rs2,142.00K"
+,
+			"Rs72.00K"
+,
+			"Rs800.00K"
+,
+			"Rs50.00K"
+,
+			"Rs16.53K"
+,
+			"Rs37,068.70K"
+,
+			"Rs400.00K"
+,
+			"Rs30,700.00K"
+,
+			"Rs3,710.00K"
+,
+			"Rs136.00K"
+,
+			"Rs400.00K"
+,
+			"Rs320.00K"
+,
+			"Rs250,000.00K"
+,
+			"Rs4,270.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+
+
+		],
+
+		"links": [
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D9219fdb2-b89d-264e-b0f8-531ae2c6cbf6"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Db03a2c09-a461-61c9-a8a4-4ee20643f3bc"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Df333ec33-3ea1-21e4-c0dc-53a29ffff3c5"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D13f80e73-8554-8ff8-6acb-4edf339692d5"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D50cae3a2-c89f-925b-5a56-52319b7b1604"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dba30fcf8-0302-b1ca-b8fe-537f3059bf06"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D15910d72-3e71-9cae-9464-4edf14e35eaa"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D53a64489-91e5-aba7-512a-5189159d73f5"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D1a026b69-3745-4525-45c1-4edf2c2d9532"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dbc4003ac-900e-bc1e-0851-51ce845170db"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dd1ecdf06-c721-9a11-c557-4fc884cda071"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dd14332e3-9cb8-b0d0-d1ad-537f319d4aeb"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D49e2363d-436e-f1b5-d380-513ec0310e00"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dc354bd0a-b2bd-e4c3-af4c-51f9fe940fd6"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D589835c2-5b81-9552-cb89-53a5180aff09"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Db5904c67-481e-e9d6-cbfd-4edf4ee500ba"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Ddc3f7994-7b9e-3dd8-b564-4edf3637f639"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D7f796489-cf7f-773a-db10-5208d455c2be"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3De3482a86-b71b-c224-2cab-512466f7a215"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D361353bb-99fa-584e-386f-4edf1acdb60a"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D96c00939-67ca-f8ba-72bc-5208d7611e44"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D4b347778-660a-4332-b4a4-533ea6b8cefb"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D3115b9cc-3b73-d601-eddd-537c3a9f0513"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D4dad3bae-9925-dc59-ca14-538c10a20df8"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dded99662-20ff-d683-e8fe-53abb4f77047"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D3e3254e0-dc15-6f70-ff3d-5228296b7863"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dcdae625b-03c7-6fdd-8eda-533ea47139be"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Db1e1fffb-d3f1-725d-61a8-4f22513c78e9"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Da03ee485-2fd6-86ea-aad4-517a738b172a"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dccdcc6ea-2c11-789f-28ff-4edf2acd87db"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Dde7db568-c275-3cba-3989-4f8694d95232"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D607add58-f069-9e3e-2390-53cf7902d5cc"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3Ddccea579-1f49-351a-a55d-521b23587996"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft%26assigned_user_id%5B%5D%3D6ad20be4-bda6-878a-8749-51f8a88d6df3"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DDraft"
+
+
+		]
+
+	}
+,
+	{
+
+		"label": "Negotiation",
+
+		"gvalue": "40724.55",
+
+		"gvaluelabel": "Rs40,724.55K",
+
+		"values": [
+			0
+,
+			4221.17
+,
+			0
+,
+			2924
+,
+			1240
+,
+			0
+,
+			1500
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			150
+,
+			0
+,
+			0
+,
+			10575.44
+,
+			0
+,
+			0
+,
+			0
+,
+			2410
+,
+			0
+,
+			200
+,
+			0
+,
+			0
+,
+			0
+,
+			408.5
+,
+			0
+,
+			3215
+,
+			82
+,
+			0
+,
+			0
+,
+			0
+,
+			350
+,
+			1800
+,
+			500
+,
+			1000
+,
+			5250
+,
+			129
+,
+			2570
+,
+			2134.44
+,
+			65
+,
+			0
+
+
+		],
+
+		"valuelabels": [
+			""
+,
+			"Rs4,221.17K"
+,
+			""
+,
+			"Rs2,924.00K"
+,
+			"Rs1,240.00K"
+,
+			""
+,
+			"Rs1,500.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs150.00K"
+,
+			""
+,
+			""
+,
+			"Rs10,575.44K"
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs2,410.00K"
+,
+			""
+,
+			"Rs200.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs408.50K"
+,
+			""
+,
+			"Rs3,215.00K"
+,
+			"Rs82.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs350.00K"
+,
+			"Rs1,800.00K"
+,
+			"Rs500.00K"
+,
+			"Rs1,000.00K"
+,
+			"Rs5,250.00K"
+,
+			"Rs129.00K"
+,
+			"Rs2,570.00K"
+,
+			"Rs2,134.44K"
+,
+			"Rs65.00K"
+,
+			""
+
+
+		],
+
+		"links": [
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Db03a2c09-a461-61c9-a8a4-4ee20643f3bc"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D13f80e73-8554-8ff8-6acb-4edf339692d5"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D50cae3a2-c89f-925b-5a56-52319b7b1604"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D15910d72-3e71-9cae-9464-4edf14e35eaa"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Dc354bd0a-b2bd-e4c3-af4c-51f9fe940fd6"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Ddc3f7994-7b9e-3dd8-b564-4edf3637f639"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D96c00939-67ca-f8ba-72bc-5208d7611e44"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D3115b9cc-3b73-d601-eddd-537c3a9f0513"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Dcdae625b-03c7-6fdd-8eda-533ea47139be"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Da03ee485-2fd6-86ea-aad4-517a738b172a"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Dccdcc6ea-2c11-789f-28ff-4edf2acd87db"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D6ad20be4-bda6-878a-8749-51f8a88d6df3"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D592c3811-58cd-e0f7-ae50-52e63c94df56"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D9f395035-be5e-6d77-707d-53e35928ba70"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Deeb7b114-947c-f35c-717a-536486b8a8c7"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D884ca5aa-b79a-3791-dd68-5187a2cd35bc"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3Dacbcfed8-ca04-ead5-2999-4fe7f6b2a499"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D293583f4-ed67-6f68-acd9-517a740b9e42"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D484b53a2-1b6f-04fe-25e8-4edf34091960"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview%26assigned_user_id%5B%5D%3D71b3cda6-6513-b35d-de11-50bdddf838de"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DNegotiation%252FReview"
+
+
+		]
+
+	}
+,
+	{
+
+		"label": "Closed Won",
+
+		"gvalue": "601",
+
+		"gvaluelabel": "Rs601.00K",
+
+		"values": [
+			0
+,
+			225
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			233
+,
+			0
+,
+			78
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			25
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			40
+,
+			0
+
+
+		],
+
+		"valuelabels": [
+			""
+,
+			"Rs225.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs233.00K"
+,
+			""
+,
+			"Rs78.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs25.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs40.00K"
+,
+			""
+
+
+		],
+
+		"links": [
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon%26assigned_user_id%5B%5D%3Db03a2c09-a461-61c9-a8a4-4ee20643f3bc"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon%26assigned_user_id%5B%5D%3Dd14332e3-9cb8-b0d0-d1ad-537f319d4aeb"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon%26assigned_user_id%5B%5D%3Dc354bd0a-b2bd-e4c3-af4c-51f9fe940fd6"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon%26assigned_user_id%5B%5D%3D3115b9cc-3b73-d601-eddd-537c3a9f0513"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon%26assigned_user_id%5B%5D%3D71b3cda6-6513-b35d-de11-50bdddf838de"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BWon"
+
+
+		]
+
+	}
+,
+	{
+
+		"label": "Closed Lost",
+
+		"gvalue": "825",
+
+		"gvaluelabel": "Rs825.00K",
+
+		"values": [
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			55
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			720
+,
+			0
+,
+			0
+,
+			0
+,
+			0
+,
+			50
+
+
+		],
+
+		"valuelabels": [
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs55.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs720.00K"
+,
+			""
+,
+			""
+,
+			""
+,
+			""
+,
+			"Rs50.00K"
+
+
+		],
+
+		"links": [
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost%26assigned_user_id%5B%5D%3D50cae3a2-c89f-925b-5a56-52319b7b1604"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost%26assigned_user_id%5B%5D%3D884ca5aa-b79a-3791-dd68-5187a2cd35bc"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost"
+,
+			"index.php%3Fmodule%3DOpportunities%26action%3Dindex%26query%3Dtrue%26searchFormTab%3Dadvanced_search%26start_range_date_closed%3D2014-08-23%26end_range_date_closed%3D2015-02-23%26sales_stage%3DClosed%2BLost%26assigned_user_id%5B%5D%3Dc43f53e1-c0a3-1408-9dcb-4fc86a90bf6b"
+
+
+		]
+
+	}
+
+	]
+
+}
